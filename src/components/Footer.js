@@ -38,7 +38,7 @@ function Footer() {
         </a>
       </div>
 
-      <p className="text-footer">Build without ❤ by Muhammad Hijri</p>
+      <p className="text-footer">Build without ❤ by Muhammad Hijriiiiii</p>
     </footer>
   );
 }
