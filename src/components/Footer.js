@@ -21,8 +21,14 @@ function Footer() {
         >
           <BsGithub className="icon-footer"/>
         </a>
-        
-        <a href="https://www.instagram.com/mhmmdhjri__/"
+        <a href="https://twitter.com/markszuckerberg"
+          target="_blank"
+          className="icon-container"
+          rel="noreferrer"
+        >
+          <BsTwitterX className="icon-footer"/>
+        </a>
+        <a href="https://instagram.com/mhmmdhjri__"
           target="_blank"
           className="icon-container"
           rel="noreferrer"
@@ -38,7 +44,7 @@ function Footer() {
         </a>
       </div>
 
-      <p className="text-footer">Build without ❤ by Muhammad Hijriiiiii</p>
+      <p className="text-footer">Build without ❤ by Muhammad Hijri</p>
     </footer>
   );
 }
